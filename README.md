@@ -1,4 +1,4 @@
-# Portfólio Pessoal - Karla Almeida
+# Portifólio Pessoal - Karla Almeida
 
 Este é o meu portfólio pessoal, desenvolvido para apresentar minhas habilidades, projetos e certificados na área de desenvolvimento front-end e análise de dados.
 
